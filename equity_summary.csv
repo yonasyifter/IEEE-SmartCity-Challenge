@@ -1,0 +1,6 @@
+dynamic_zone,avg_wait_before,avg_wait_after,baseline_threshold,projected_probability,congestion_flag,priority_rank,hours_to_threshold,rho,equity_score_before,equity_score_after,grade_before,grade_after
+Zone_2,8.939,11.711,0.483,0.699,True,1,7,0.484,96.67,73.789,A,C
+Zone_3,9.13,11.711,0.504,0.679,True,2,8,0.504,94.648,73.789,A,C
+Zone_5,16.065,12.852,0.518,0.665,True,3,8,0.518,53.789,67.237,F,D
+Zone_4,15.778,12.623,0.518,0.664,True,4,9,0.518,54.766,68.457,F,D
+Zone_1,8.641,9.657,0.476,0.66,True,5,8,0.477,100.0,89.479,A,B
